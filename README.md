@@ -17,7 +17,7 @@ The workflow includes:
 - `pipeline.pkl` — Serialized preprocessing + inference pipeline.  
 - `README.md` — Project overview and instructions.
 
-## 🛠 Usage  
+##  Usage  
 1. Navigate to the `datasets/` directory and ensure the required input files are present.  
 2. Open the Notebook or script in `codefiles/` to review or rerun the training workflow.  
 3. After training, use the `pipeline.pkl` to preprocess new data, then apply `model.pkl` for predictions.  
